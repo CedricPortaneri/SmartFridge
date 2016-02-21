@@ -1,6 +1,6 @@
 /***** Smart fridge *****/
 
-This is a Java Swing school project made by Cedric Portaneri and Aurelien Nel from May 2014 to June 2014 (1 month). At this time we were 3rd year computer science students from the engineering school Polytech Paris Sud.
+This is a Java Swing school project made by Cédric Portaneri and Aurélien Nel from May 2014 to June 2014 (1 month). At this time we were 3rd year computer science students from the engineering school Polytech Paris Sud.
 
 The pdf file is a report of our work. You can check there the different features and process of our development (Conception, console interface, sketch, design...).
 
